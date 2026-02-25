@@ -1,0 +1,7 @@
+matplotlib
+numpy
+torch
+neuraloperator
+xarray
+netCDF4
+ncplot
